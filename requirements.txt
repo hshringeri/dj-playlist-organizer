@@ -1,0 +1,11 @@
+spotipy>=2.23.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+
+# Audio analysis
+librosa>=0.10.0
+numpy>=1.24.0
+
+# Testing
+pytest>=8.0.0
+pytest-mock>=3.12.0
